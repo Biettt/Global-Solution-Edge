@@ -18,12 +18,13 @@ O BioWatch Pro é um dispositivo inteligente que integra sensores avançados par
 
 - **Níveis de Glicose:** O BioWatch Pro oferece um método não invasivo de monitorar os níveis de glicose, contribuindo para o controle efetivo em pacientes diabéticos.
 
-## Como Executar no Wokwi | Link do Projeto
+## Como Executar no Wokwi | Link do Projeto | Link do Video
 
 1. Acesse o simulador Wokwi em [link do Wokwi].
 2. Abra o projeto do BioWatch Pro.
 3. Explore as funcionalidades do dispositivo, simulando diferentes cenários de saúde.
 4. https://wokwi.com/projects/382321984643570689
+5. https://youtu.be/9DdWJW2Folg
 
 ## Recursos Adicionais
 
